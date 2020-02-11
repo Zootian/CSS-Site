@@ -1,0 +1,203 @@
+a {
+  color: #dfddc7;
+  text-decoration: none;
+  padding: 20px;
+}
+a:hover {
+  color: #B9424A;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Space Colony W05 Regular', Arial, sans-serif;
+}
+
+div {
+  background-color: #211717;
+  color: #dfddc7;
+}
+
+h1 {
+  margin-top: 0;
+  color: #f58b54;
+}
+
+h2 {
+  margin-top: 0;
+  padding-top: 80px;
+  color: #f58b54;
+  padding-bottom: 20px;
+}
+h3 {
+  color: #B9424A;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 12px;
+  width: 5%;
+  border-color: #a34a28;
+  margin-bottom: 0;
+}
+.astronaut {
+  width: 10%;
+  height: auto;
+  position: absolute;
+  bottom: 10%;
+  right: 40%;
+}
+
+.automation {
+  width: 20%;
+  height: auto;
+  border-style: solid;
+  border-color: white;
+  border-width: thick;
+  float: left;
+  margin-right: 20px;
+}
+
+.container-1 {
+  position: relative;
+  padding-top: 50px;
+}
+
+.container-2 {
+  padding-top: 80px;
+}
+
+.container-5 {
+  background-color: #f58b54;
+}
+
+.copyright {
+  margin-bottom: 0;
+  padding-bottom: 60px;
+  color: #211717;
+}
+
+.c4Text {
+  width: 40%;
+  margin: auto;
+  line-height: 2rem;
+}
+
+.culinary {
+  width: 20%;
+  height: auto;
+  border: solid;
+  border-width: 10px;
+  border-color: black;
+  float: left;
+  margin-right: 20px;
+}
+
+.deimos {
+  width: 50px;
+  height: auto;
+  position: absolute;
+  right: 30%;
+  top: 5%;
+}
+
+.headshot {
+  border-radius: 60%;
+  width: 30%;
+  height:auto;
+  border-style: double;
+  border-color: #1B4A92;
+}
+
+.landscape {
+  width: 100%;
+  height: inherit;
+}
+
+.phobos {
+  width: 50px;
+  height: auto;
+  position: absolute;
+  left: 20%;
+  top: 30%;
+}
+
+.skill1 {
+  padding-top: 60px;
+  width: 50%;
+  text-align: left;
+  position: relative;
+  margin: auto;
+  line-height: 2rem;
+}
+
+.skill2 {
+  padding-top: 60px;
+  width: 50%;
+  text-align: right;
+  line-height: 2rem;
+  margin: auto;
+}
+
+.skill3 {
+  padding-top: 60px;
+  width: 50%;
+  text-align: left;
+  position: relative;
+  margin: auto;
+  line-height: 2rem;
+  padding-bottom: 80px;
+}
+
+.socMed {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: inherit;
+
+}
+
+.testbutton {
+  margin: 40px auto 60px;
+  font-family: arial;
+  color: #DFDDC7 !important;
+  font-size: 16px;
+  text-shadow: 1px 1px 0px #211717;
+  padding: 10px 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  border: 2px solid #A34A28;
+  background: #63B8EE;
+  background: linear-gradient(top,  #B9424A,  #A34A28);
+  background: -ms-linear-gradient(top,  #B9424A,  #A34A28);
+  background: -webkit-gradient(linear, left top, left bottom, from(#B9424A), to(#A34A28));
+  background: -moz-linear-gradient(top,  #B9424A,  #A34A28);
+}
+.testbutton:hover {
+  color: #DFDDC7 !important;
+  background: #468CCF;
+  background: linear-gradient(top,  #F58B54,  #B9424A);
+  background: -ms-linear-gradient(top,  #F58B54,  #B9424A);
+  background: -webkit-gradient(linear, left top, left bottom, from(#F58B54), to(#B9424A));
+  background: -moz-linear-gradient(top,  #F58B54,  #B9424A);
+}
+
+.webApp {
+  float: right;
+  margin-left: 20px;
+  width: 20%;
+  height: auto;
+  border: solid;
+  border-width: 10px;
+  border-color: #E0BF47;
+}
+
+.welDesc {
+  margin: auto 30%;
+  padding-bottom: 80px;
+  line-height: 2rem;
+}
+
+#getConn {
+  margin-bottom: 60px;
+}
